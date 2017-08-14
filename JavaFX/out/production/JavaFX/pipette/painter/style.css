@@ -1,0 +1,10 @@
+
+.topBar {
+    -fx-background-color: #0d8898;
+    -fx-alignment: center;
+    -fx-padding: 35px;
+}
+
+.topBarHeadline {
+    -fx-fill: #ffffff;
+}
